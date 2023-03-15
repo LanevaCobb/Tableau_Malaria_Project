@@ -9,4 +9,6 @@ This project was to introduce me to analyzing data on a Tableau dashboard. There
 Here is the link to the dashboard. You would notice that it is quite simple. The message the data provided is quite profound:
 https://public.tableau.com/views/MakeoverMonday34Malaria_0/MalariainAfrica?:embed=y&:showVizHome=no&:display_count=y&:display_static_image=y&:bootstrapWhenNotified=true
 
-I've also attached a pdf file outlining my thoughts and insights derived from this dashboard.
+I've also attached a pdf file to this project outlining my thoughts and insights derived from this dashboard. 
+File link:
+[First_Project-Malaria_Deaths_in_Africa__2_.pdf](https://github.com/LanevaCobb/Tableau_Malaria_Project/files/10978661/First_Project-Malaria_Deaths_in_Africa__2_.pdf)
